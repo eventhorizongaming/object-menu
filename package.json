@@ -1,0 +1,11 @@
+{
+  "name": "object-menu",
+  "version": "1.0.0",
+  "description": "A simple library to create an HTML menu for easy customization of the values in an object.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eliaselliotson",
+  "license": "MIT"
+}
