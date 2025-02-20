@@ -4,8 +4,13 @@
   "description": "A simple library to create an HTML menu for easy customization of the values in an object.",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx vite"
   },
   "author": "eliaselliotson",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "node": "^22.14.0",
+    "vite": "^6.1.1"
+  }
 }
